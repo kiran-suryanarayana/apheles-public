@@ -110,7 +110,7 @@ header.site {
   border-bottom: 1px solid var(--line);
 }
 .nav { display: flex; align-items: center; justify-content: space-between; height: 74px; }
-.logo-lockup svg { height: 56px; width: auto; }
+.logo-lockup svg { height: 76px; width: auto; }
 .nav-links { display: flex; align-items: center; gap: 32px; }
 .nav-links a:not(.btn) { font-weight: 500; font-size: 0.95rem; color: var(--ink-2); transition: color .2s; position: relative; }
 .nav-links a:not(.btn):hover { color: var(--ink); }
